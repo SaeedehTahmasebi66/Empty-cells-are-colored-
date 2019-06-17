@@ -1,0 +1,9 @@
+
+
+tr:first-child > td:nth-child(2) {
+     background-color:#AEB6BF;
+}
+
+tr:nth-child(2) > td:last-child {
+    background-color: #AEB6BF;
+}
